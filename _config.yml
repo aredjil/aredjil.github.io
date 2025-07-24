@@ -1,3 +1,8 @@
 title: Abou Bakr Essadiq REDJIL
 description: 
 theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
