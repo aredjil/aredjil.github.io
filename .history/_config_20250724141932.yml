@@ -3,11 +3,9 @@ description:
 theme: jekyll-theme-minimal
 author:
   name: Abou Bakr Essadiq REDJIL
-  github: aredjil
-  linkedin: Abou-Bakr-Essadiq-REDJIL
+  
 
 header_pages:
   - index.md
   - about.md
   - projects.md
-  - ideas.md
