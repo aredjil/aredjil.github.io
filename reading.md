@@ -1,0 +1,11 @@
+---
+title: Currently Reading
+---
+
+# Currently Reading
+
+## Books
+- [ ] **Dialectical Materialism: An Introduction** — Maurice Cornforth 
+## Papers
+
+## Articles / Blogs
