@@ -9,5 +9,5 @@ author:
 header_pages:
   - _pages/index.md
   - _pages/about.md
-  - _pages/ projects.md
-  - _pages/ideas.md
+  -_pages/ projects.md
+  - ideas.md

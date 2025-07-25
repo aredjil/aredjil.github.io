@@ -7,7 +7,7 @@ author:
   linkedin: Abou-Bakr-Essadiq-REDJIL
 
 header_pages:
-  - _pages/index.md
-  - _pages/about.md
-  - _pages/ projects.md
-  - _pages/ideas.md
+  - _pages/index.mdindex.md
+  - about.md
+  - projects.md
+  - ideas.md
