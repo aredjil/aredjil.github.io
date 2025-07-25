@@ -3,6 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
+# Optional, for GitHub Pages
 markdown: kramdown
 kramdown:
   math_engine: mathjax
@@ -22,3 +23,7 @@ header_pages:
 
 include:
   - _pages
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax

@@ -22,3 +22,7 @@ header_pages:
 
 include:
   - _pages
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
