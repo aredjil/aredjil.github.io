@@ -10,9 +10,9 @@ author:
 header_pages:
   - index.md
   - about.md
-  - projects.md
-  - ideas.md
-  - resume.md
+  - _pages/projects.md
+  - _pages/ideas.md
+  - _pages/resume.md
 
 include:
   - _pages
