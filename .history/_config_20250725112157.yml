@@ -12,10 +12,7 @@ header_pages:
   - _pages/about.md
   - _pages/projects.md
   - _pages/ideas.md
-  - _pages/resume.md
 
-include:
-  - _pages
 markdown: kramdown
 
 kramdown:
