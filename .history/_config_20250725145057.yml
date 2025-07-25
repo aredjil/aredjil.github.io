@@ -4,6 +4,10 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 include:
   - _pages
 
@@ -12,5 +16,4 @@ header_pages:
   - _pages/about.md
   - _pages/projects.md
   - _pages/ideas.md
-  - _pages/reading.md
   - _pages/resume.md
